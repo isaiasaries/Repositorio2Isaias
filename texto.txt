@@ -10,3 +10,5 @@ Nos encontramos con empresas desarrolladoras de software como la empresa collect
 
 Se encontraban marcas conocidas como Asus, Hp, Norton Antivirus, Kaspersky, Vex Robotics, Epson, y otras más, pero no estaban los representantes directos de la marca, sino los distribuidores o vendedores al usuario final, lo que hace que los artículos no tengan precio directo.
 Se presentó también como novedad el Robot Aspiradora, que realiza la colecta de polvo y pelusa en casa de forma autónoma, además se realizó una exhibición de los robots ganadores en torneos de robótica en los que asistió el IPN y el Tecnológico de Monterrey.
+
+Algunas exposiciones que se encontraban a la salida fueron la de los grupos de robotica de Instituto Politécnico Nacional (IPN) y el Tecnológico de Monterrey, en donde se presentaban los robots que han participado en competencias internacionales  por los equipos formados en cada institución.
